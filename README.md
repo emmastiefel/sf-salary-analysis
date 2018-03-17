@@ -1,0 +1,1 @@
+Hey!  This is a school project on statistical inferences. I had to construct a confidence interval, perform hypothesis tests, and calculate conditional probabilities for a publicly available dataset.
